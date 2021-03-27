@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2020/09/09 18:07:03.000.843,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2020/09/09 18:07:03.000.966,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/09 18:07:03.000.843,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/01/08 09:02:25.000.846,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/01/08 09:02:26.000.006,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2021/01/12 13:49:41.000.455,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2021/01/12 13:49:41.000.054,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/02/02 07:41:04.000.015,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/02/02 07:41:34.000.586,=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>2021/02/02 07:45:56.000.704,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Principal.cpp=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>2021/02/02 07:47:22.000.539,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Practicamatrizdispersa.h=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/02/02 07:47:39.000.294,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Practicamatrizdispersa.cbproj=C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/02/02 07:45:56.000.704,C:\Users\Karla\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Principal.cpp</Transaction>
+    <Transaction>2021/02/02 07:47:22.000.539,C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Practicamatrizdispersa.h</Transaction>
+    <Transaction>2021/02/02 07:47:39.000.294,C:\Users\Karla\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Practicamatrizdispersa.cbproj</Transaction>
     <Transaction>2021/02/02 08:05:25.000.100,=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.cpp</Transaction>
-    <Transaction>2021/02/02 08:06:04.000.273,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcoordenado.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.h</Transaction>
-    <Transaction>2021/02/02 08:06:04.000.273,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcoordenado.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.cpp</Transaction>
-    <Transaction>2021/02/04 11:51:23.715,=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.cpp</Transaction>
-    <Transaction>2021/02/04 11:52:01.539,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcomprimido.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.cpp</Transaction>
-    <Transaction>2021/02/04 11:52:01.539,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcomprimido.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.h</Transaction>
+    <Transaction>2021/02/02 08:06:04.000.273,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcoordenado.cpp</Transaction>
+    <Transaction>2021/02/02 08:06:04.000.273,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcoordenado.h</Transaction>
+    <Transaction>2021/02/04 11:51:23.000.715,=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.cpp</Transaction>
+    <Transaction>2021/02/04 11:52:01.000.539,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.h=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcomprimido.h</Transaction>
+    <Transaction>2021/02/04 11:52:01.000.539,C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\Unit1.cpp=C:\Users\Karla\Desktop\Universidad\ING. SISTEMAS\4 SEMESTRE\ESTRUCTURAS DE DATOS 1\2-2020\Unidad 5\Modelo de\UMatrizvectorcomprimido.cpp</Transaction>
   </Transactions>
 </BorlandProject>
